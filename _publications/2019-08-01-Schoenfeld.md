@@ -12,4 +12,4 @@ This study evaluated the effects of operative and nonoperative management on mai
 
 [Download paper here](http://angela-t-chen.github.io/files/2019_Schoenfeld_AmbulatoryStatus.pdf)
 
-Recommended citation: Schoenfeld AJ, Losina E, Ferrone ML, Schwab JH, Chi JH, Blucher JA, Silva GS, Chen AT, Harris MB, Kang JD, Katz JN. 2019. Ambulatory status after surgical and nonsurgical treatment for spinal metastasis.  <i>Cancer</i>. 125(15): 2361-2637.
+Recommended citation: Schoenfeld AJ, Losina E, Ferrone ML, et al. 2019. Ambulatory status after surgical and nonsurgical treatment for spinal metastasis.  <i>Cancer</i>. 125(15): 2361-2637.
