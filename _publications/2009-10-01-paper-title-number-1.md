@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Gluteal fibrosis, post-injection paralysis, and related injection practices in Uganda: a qualitative analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-11-06-Alves
+excerpt: 'In this paper, we used qualitative methods to describe perceptions of local health care workers regarding risk factors - particularly injection of medication into the gluteal region - for development of gluteal fibrosis (GF) and post-injection paralysis. Results suggest that inappropriate intramuscular injections, may arise from problems in the upstream deficits in access to health care, health education, and health policy enforcement.'
+date: 2018-11-06
+venue: 'BMC Health Services Research'
+paperurl: 'https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-018-3711-8'
+citation: 'Alves K, Godwin CL, Chen A, Akellot D, Katz JN, Sabatini C. 2018. Gluteal fibrosis, post-injection paralysis, and related injection practices in Uganda: a qualitative analysis. <i>BMC Health Services Research</i>. 18:892.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper, we used qualitative methods to describe perceptions of local health care workers regarding risk factors - particularly injection of medication into the gluteal region - for development of gluteal fibrosis (GF) and post-injection paralysis. Results suggest that inappropriate intramuscular injections, may arise from problems in the upstream deficits in access to health care, health education, and health policy enforcement.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/2018_Alves_GlutealFibrosis.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Alves K, Godwin CL, Chen A, Akellot D, Katz JN, Sabatini C. 2018. Gluteal fibrosis, post-injection paralysis, and related injection practices in Uganda: a qualitative analysis. <i>BMC Health Services Research</i>. 18:892.
