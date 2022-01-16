@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Angela T. Chen"
   avatar           : "Headshot.png"
-  bio              : "MD/PhD at the University of Pennsylvania"
+  bio              : "MD/PhD student at the University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=angela+t+chen"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "angela-t-chen"
+  twitter          : "https://twitter.com/angela-t-chen"
   vine             :
   weibo            :
   xing             :
